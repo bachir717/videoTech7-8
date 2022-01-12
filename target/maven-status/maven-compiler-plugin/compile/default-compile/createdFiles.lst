@@ -1,0 +1,7 @@
+fr/cnamts/videoTech6/launcher/Launcher.class
+fr/cnamts/videoTech6/domaine/Video.class
+fr/cnamts/videoTech6/dao/IDao.class
+fr/cnamts/videoTech6/service/VideoService.class
+fr/cnamts/videoTech6/dao/VideoDao.class
+fr/cnamts/videoTech6/container/VideoFactoryConfig.class
+fr/cnamts/videoTech6/container/DataSourceConfig.class
